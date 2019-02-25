@@ -1,0 +1,1855 @@
+{
+  "movies": [
+    {
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": "1977",
+      "Rated": "PG",
+      "Released": "25 May 1977",
+      "Runtime": "121 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+      "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire\"s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 6 Oscars. Another 50 wins & 28 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "8.6",
+      "imdbVotes": "1,092,532",
+      "imdbID": "tt0076759",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/episode-iv/"
+    },
+    {
+      "Title": "Star Wars: Episode V - The Empire Strikes Back",
+      "Year": "1980",
+      "Rated": "PG",
+      "Released": "20 Jun 1980",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "Irvin Kershner",
+      "Writer": "Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by), George Lucas (story by)",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "Plot": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 21 wins & 19 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "8.8",
+      "imdbVotes": "1,021,079",
+      "imdbID": "tt0080684",
+      "Type": "movie",
+      "DVD": "21 Sep 2004",
+      "BoxOffice": "$4,548,170",
+      "Production": "Twentieth Century Fox",
+      "Website": "http://www.starwars.com/episode-v/"
+    },
+    {
+      "Title": "Star Wars: Episode VI - Return of the Jedi",
+      "Year": "1983",
+      "Rated": "PG",
+      "Released": "25 May 1983",
+      "Runtime": "131 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "Richard Marquand",
+      "Writer": "Lawrence Kasdan (screenplay by), George Lucas (screenplay by), George Lucas (story by)",
+      "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+      "Plot": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor\"s trap.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 20 wins & 16 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "8.3",
+      "imdbVotes": "837,046",
+      "imdbID": "tt0086190",
+      "Type": "movie",
+      "DVD": "12 Sep 2006",
+      "BoxOffice": "N/A",
+      "Production": "Twentieth Century Fox",
+      "Website": "http://www.starwars.com/episode-vi/"
+    },
+    {
+      "Title": "Star Wars: The Force Awakens",
+      "Year": "2015",
+      "Rated": "PG-13",
+      "Released": "18 Dec 2015",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "J.J. Abrams",
+      "Writer": "Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)",
+      "Actors": "Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver",
+      "Plot": "Three decades after the Empire\"s defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance\"s search for the missing Luke Skywalker.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 5 Oscars. Another 57 wins & 123 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.0",
+      "imdbVotes": "766,734",
+      "imdbID": "tt2488496",
+      "Type": "movie",
+      "DVD": "05 Apr 2016",
+      "BoxOffice": "$936,658,640",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://starwars.com/"
+    },
+    {
+      "Title": "Star Wars: Episode I - The Phantom Menace",
+      "Year": "1999",
+      "Rated": "PG",
+      "Released": "19 May 1999",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd",
+      "Plot": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Oscars. Another 26 wins & 65 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "54%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "6.5",
+      "imdbVotes": "639,850",
+      "imdbID": "tt0120915",
+      "Type": "movie",
+      "DVD": "16 Oct 2001",
+      "BoxOffice": "$431,000,000",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/episode-i/"
+    },
+    {
+      "Title": "Star Wars: Episode III - Revenge of the Sith",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "19 May 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+      "Writer": "George Lucas",
+      "Actors": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid",
+      "Plot": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+      "Language": "English",
+      "Country": "USA, Italy, Switzerland, Thailand, Tunisia",
+      "Awards": "Nominated for 1 Oscar. Another 25 wins & 56 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "7.6",
+      "imdbVotes": "622,401",
+      "imdbID": "tt0121766",
+      "Type": "movie",
+      "DVD": "01 Nov 2005",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/"
+    },
+    {
+      "Title": "Star Wars: Episode II - Attack of the Clones",
+      "Year": "2002",
+      "Rated": "PG",
+      "Released": "16 May 2002",
+      "Runtime": "142 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+      "Writer": "George Lucas (screenplay by), Jonathan Hales (screenplay by), George Lucas (story by)",
+      "Actors": "Ewan McGregor, Natalie Portman, Hayden Christensen, Christopher Lee",
+      "Plot": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-wan Kenobi investigates an assassination attempt on the Senator and discovers a secret clone army crafted for the Jedi.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 16 wins & 58 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "66%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "54/100"
+        }
+      ],
+      "Metascore": "54",
+      "imdbRating": "6.6",
+      "imdbVotes": "559,024",
+      "imdbID": "tt0121765",
+      "Type": "movie",
+      "DVD": "12 Nov 2002",
+      "BoxOffice": "$307,900,000",
+      "Production": "20th Century Fox",
+      "Website": "http://www.starwars.com/episode-ii/"
+    },
+    {
+      "Title": "Star Trek",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "08 May 2009",
+      "Runtime": "127 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.J. Abrams",
+      "Writer": "Roberto Orci, Alex Kurtzman, Gene Roddenberry (television series \"Star Trek\")",
+      "Actors": "Chris Pine, Zachary Quinto, Leonard Nimoy, Eric Bana",
+      "Plot": "The brash James T. Kirk tries to live up to his father\"s legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.",
+      "Language": "English",
+      "Country": "USA, Germany",
+      "Awards": "Won 1 Oscar. Another 23 wins & 92 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "8.0",
+      "imdbVotes": "551,557",
+      "imdbID": "tt0796366",
+      "Type": "movie",
+      "DVD": "17 Nov 2009",
+      "BoxOffice": "$257,704,099",
+      "Production": "IMAX",
+      "Website": "http://www.startrekmovie.com/"
+    },
+    {
+      "Title": "Rogue One: A Star Wars Story",
+      "Year": "2016",
+      "Rated": "PG-13",
+      "Released": "16 Dec 2016",
+      "Runtime": "133 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)",
+      "Actors": "Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen",
+      "Plot": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 23 wins & 78 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "7.8",
+      "imdbVotes": "457,611",
+      "imdbID": "tt3748528",
+      "Type": "movie",
+      "DVD": "04 Apr 2017",
+      "BoxOffice": "$532,171,696",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://www.starwars.com/"
+    },
+    {
+      "Title": "Star Trek Into Darkness",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "16 May 2013",
+      "Runtime": "132 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "J.J. Abrams",
+      "Writer": "Roberto Orci, Alex Kurtzman, Damon Lindelof, Gene Roddenberry (television series \"Star Trek\")",
+      "Actors": "Chris Pine, Zachary Quinto, Zoe Saldana, Karl Urban",
+      "Plot": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+      "Language": "English, Klingon",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 6 wins & 56 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "72/100"
+        }
+      ],
+      "Metascore": "72",
+      "imdbRating": "7.7",
+      "imdbVotes": "440,631",
+      "imdbID": "tt1408101",
+      "Type": "movie",
+      "DVD": "10 Sep 2013",
+      "BoxOffice": "$228,756,232",
+      "Production": "Paramount",
+      "Website": "http://www.startrekmovie.com/"
+    },
+    {
+      "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "09 Jul 2003",
+      "Runtime": "143 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "Gore Verbinski",
+      "Writer": "Ted Elliott (screen story), Terry Rossio (screen story), Stuart Beattie (screen story), Jay Wolpert (screen story), Ted Elliott (screenplay), Terry Rossio (screenplay)",
+      "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+      "Plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor\"s daughter, from Jacks former pirate allies, who are now undead.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 5 Oscars. Another 36 wins & 96 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "63/100"
+        }
+      ],
+      "Metascore": "63",
+      "imdbRating": "8.0",
+      "imdbVotes": "944,014",
+      "imdbID": "tt0325980",
+      "Type": "movie",
+      "DVD": "02 Dec 2003",
+      "BoxOffice": "$305,343,252",
+      "Production": "Buena Vista Pictures",
+      "Website": "http://disney.go.com/disneyvideos/liveaction/pirates/main_site/main.html"
+    },
+    {
+      "Title": "Black Swan",
+      "Year": "2010",
+      "Rated": "R",
+      "Released": "17 Dec 2010",
+      "Runtime": "108 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Darren Aronofsky",
+      "Writer": "Mark Heyman (screenplay), Andres Heinz (screenplay), John J. McLaughlin (screenplay), Andres Heinz (story)",
+      "Actors": "Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey",
+      "Plot": "A committed dancer wins the lead role in a production of Tchaikovsky\"s Swan Lake only to find herself struggling to maintain her sanity.",
+      "Language": "English, French, Italian",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 91 wins & 257 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "8.0",
+      "imdbVotes": "632,220",
+      "imdbID": "tt0947798",
+      "Type": "movie",
+      "DVD": "29 Mar 2011",
+      "BoxOffice": "$106,952,327",
+      "Production": "Fox Searchlight",
+      "Website": "http://www.BlackSwan2010.com/"
+    },
+    {
+      "Title": "Men in Black",
+      "Year": "1997",
+      "Rated": "PG-13",
+      "Released": "02 Jul 1997",
+      "Runtime": "98 min",
+      "Genre": "Adventure, Comedy, Mystery, Sci-Fi",
+      "Director": "Barry Sonnenfeld",
+      "Writer": "Lowell Cunningham (comic), Ed Solomon (screen story), Ed Solomon (screenplay)",
+      "Actors": "Tommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D\"Onofrio",
+      "Plot": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 19 wins & 39 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.3",
+      "imdbVotes": "465,696",
+      "imdbID": "tt0119654",
+      "Type": "movie",
+      "DVD": "23 Oct 1997",
+      "BoxOffice": "N/A",
+      "Production": "Columbia TriStar International",
+      "Website": "N/A"
+    },
+    {
+      "Title": "Black Panther",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "16 Feb 2018",
+      "Runtime": "134 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Ryan Coogler",
+      "Writer": "Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel Comics by)",
+      "Actors": "Chadwick Boseman, Michael B. Jordan, Lupita Nyong\"o, Danai Gurira",
+      "Plot": "T\"Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country\"s past.",
+      "Language": "Swahili, Nama, English, Xhosa, Korean",
+      "Country": "USA, South Africa, South Korea, Australia",
+      "Awards": "14 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "7.4",
+      "imdbVotes": "430,289",
+      "imdbID": "tt1825683",
+      "Type": "movie",
+      "DVD": "15 May 2018",
+      "BoxOffice": "$501,105,037",
+      "Production": "Marvel Studios",
+      "Website": "https://www.marvel.com/movies/black-panther"
+    },
+    {
+      "Title": "Black Hawk Down",
+      "Year": "2001",
+      "Rated": "R",
+      "Released": "18 Jan 2002",
+      "Runtime": "144 min",
+      "Genre": "Drama, History, War",
+      "Director": "Ridley Scott",
+      "Writer": "Mark Bowden (book), Ken Nolan (screenplay)",
+      "Actors": "Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana",
+      "Plot": "160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.",
+      "Language": "English, Somali, Arabic",
+      "Country": "USA, UK",
+      "Awards": "Won 2 Oscars. Another 8 wins & 37 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "76%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "74/100"
+        }
+      ],
+      "Metascore": "74",
+      "imdbRating": "7.7",
+      "imdbVotes": "332,882",
+      "imdbID": "tt0265086",
+      "Type": "movie",
+      "DVD": "11 Jun 2002",
+      "BoxOffice": "$108,585,355",
+      "Production": "Sony Pictures",
+      "Website": "http://www.spe.sony.com/movies/blackhawkdown"
+    },
+    {
+      "Title": "Men in Black II",
+      "Year": "2002",
+      "Rated": "PG-13",
+      "Released": "03 Jul 2002",
+      "Runtime": "88 min",
+      "Genre": "Action, Adventure, Comedy, Mystery, Sci-Fi",
+      "Director": "Barry Sonnenfeld",
+      "Writer": "Lowell Cunningham (comic book \"Malibu Comics\"), Robert Gordon (story), Robert Gordon (screenplay), Barry Fanaro (screenplay)",
+      "Actors": "Tommy Lee Jones, Will Smith, Rip Torn, Lara Flynn Boyle",
+      "Plot": "Agent J needs help so he is sent to find Agent K and restore his memory.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "4 wins & 15 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "39%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "49/100"
+        }
+      ],
+      "Metascore": "49",
+      "imdbRating": "6.1",
+      "imdbVotes": "305,747",
+      "imdbID": "tt0120912",
+      "Type": "movie",
+      "DVD": "26 Nov 2002",
+      "BoxOffice": "$190,400,000",
+      "Production": "Columbia Pictures",
+      "Website": "http://www.sonypictures.com/movies/meninblack/"
+    },
+    {
+      "Title": "Men in Black 3",
+      "Year": "2012",
+      "Rated": "PG-13",
+      "Released": "25 May 2012",
+      "Runtime": "106 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "Barry Sonnenfeld",
+      "Writer": "Etan Cohen, Lowell Cunningham (based on the Malibu comic by)",
+      "Actors": "Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement",
+      "Plot": "Agent J travels in time to M.I.B.\"s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+      "Language": "English, Ukrainian",
+      "Country": "USA",
+      "Awards": "1 win & 13 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "6.8",
+      "imdbVotes": "301,820",
+      "imdbID": "tt1409024",
+      "Type": "movie",
+      "DVD": "30 Nov 2012",
+      "BoxOffice": "$179,020,854",
+      "Production": "Sony Pictures",
+      "Website": "http://www.meninblack.com/"
+    },
+    {
+      "Title": "Black Mirror",
+      "Year": "2011–",
+      "Rated": "TV-MA",
+      "Released": "04 Dec 2011",
+      "Runtime": "60 min",
+      "Genre": "Drama, Sci-Fi, Thriller",
+      "Director": "N/A",
+      "Writer": "Charlie Brooker",
+      "Actors": "Daniel Lapaine, Hannah John-Kamen, Michaela Coel, Beatrice Robertson-Jones",
+      "Plot": "An anthology series exploring a twisted, high-tech world where humanity\"s greatest innovations and darkest instincts collide.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "Won 2 Primetime Emmys. Another 13 wins & 43 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.9",
+      "imdbVotes": "276,829",
+      "imdbID": "tt2085059",
+      "Type": "series",
+      "totalSeasons": "5"
+    },
+    {
+      "Title": "Orange Is the New Black",
+      "Year": "2013–",
+      "Rated": "TV-MA",
+      "Released": "11 Jul 2013",
+      "Runtime": "59 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Jenji Kohan",
+      "Actors": "Taylor Schilling, Kate Mulgrew, Uzo Aduba, Danielle Brooks",
+      "Plot": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 6 Golden Globes. Another 46 wins & 120 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3MTE5ODM3M15BMl5BanBnXkFtZTgwNTIyMjQ5NTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "247,725",
+      "imdbID": "tt2372162",
+      "Type": "series",
+      "totalSeasons": "7"
+    },
+    {
+      "Title": "Sherlock",
+      "Year": "2010–",
+      "Rated": "TV-14",
+      "Released": "24 Oct 2010",
+      "Runtime": "88 min",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "N/A",
+      "Writer": "Mark Gatiss, Steven Moffat",
+      "Actors": "Benedict Cumberbatch, Martin Freeman, Una Stubbs, Rupert Graves",
+      "Plot": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 1 Golden Globe. Another 86 wins & 159 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.2",
+      "imdbVotes": "678,833",
+      "imdbID": "tt1475582",
+      "Type": "series",
+      "totalSeasons": "4"
+    },
+    {
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "Rated": "TV-MA",
+      "Released": "20 Jan 2008",
+      "Runtime": "49 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Vince Gilligan",
+      "Actors": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris",
+      "Plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family\"s future.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 2 Golden Globes. Another 144 wins & 225 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "1,145,669",
+      "imdbID": "tt0903747",
+      "Type": "series",
+      "totalSeasons": "5"
+    },
+    {
+      "Title": "Game of Thrones",
+      "Year": "2011–",
+      "Rated": "TV-MA",
+      "Released": "17 Apr 2011",
+      "Runtime": "57 min",
+      "Genre": "Action, Adventure, Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "David Benioff, D.B. Weiss",
+      "Actors": "Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington",
+      "Plot": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "Won 1 Golden Globe. Another 273 wins & 454 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3NTQ1NDg1Ml5BMl5BanBnXkFtZTgwNzY2NDA0MjI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "1,383,853",
+      "imdbID": "tt0944947",
+      "Type": "series",
+      "totalSeasons": "8"
+    },
+    {
+      "Title": "The Imitation Game",
+      "Year": "2014",
+      "Rated": "PG-13",
+      "Released": "25 Dec 2014",
+      "Runtime": "114 min",
+      "Genre": "Biography, Drama, Thriller, War",
+      "Director": "Morten Tyldum",
+      "Writer": "Graham Moore, Andrew Hodges (book)",
+      "Actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode, Rory Kinnear",
+      "Plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.",
+      "Language": "English, German",
+      "Country": "USA, UK",
+      "Awards": "Won 1 Oscar. Another 46 wins & 155 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwMzFiMWYtZDhlNS00ODNkLWJiODAtZDVhNzgyNzJhYjQ4L2ltYWdlXkEyXkFqcGdeQXVyNzEzOTYxNTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "73/100"
+        }
+      ],
+      "Metascore": "73",
+      "imdbRating": "8.0",
+      "imdbVotes": "600,086",
+      "imdbID": "tt2084970",
+      "Type": "movie",
+      "DVD": "31 Mar 2015",
+      "BoxOffice": "N/A",
+      "Production": "The Weinstein Company",
+      "Website": "http://theimitationgamemovie.com/"
+    },
+    {
+      "Title": "Sherlock Holmes: A Game of Shadows",
+      "Year": "2011",
+      "Rated": "PG-13",
+      "Released": "16 Dec 2011",
+      "Runtime": "129 min",
+      "Genre": "Action, Adventure, Crime, Mystery, Thriller",
+      "Director": "Guy Ritchie",
+      "Writer": "Michele Mulroney, Kieran Mulroney, Arthur Conan Doyle (characters)",
+      "Actors": "Robert Downey Jr., Jude Law, Noomi Rapace, Rachel McAdams",
+      "Plot": "Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty, who is carrying out a string of random crimes across Europe.",
+      "Language": "English, French, Italian, German, Romany",
+      "Country": "USA",
+      "Awards": "3 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "Metascore": "48",
+      "imdbRating": "7.5",
+      "imdbVotes": "386,772",
+      "imdbID": "tt1515091",
+      "Type": "movie",
+      "DVD": "12 Jun 2012",
+      "BoxOffice": "$186,830,669",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.sherlockholmes2.com"
+    },
+    {
+      "Title": "Outlander",
+      "Year": "2014–",
+      "Rated": "TV-MA",
+      "Released": "09 Aug 2014",
+      "Runtime": "64 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "Ronald D. Moore",
+      "Actors": "Caitriona Balfe, Sam Heughan, Duncan Lacroix, Tobias Menzies",
+      "Plot": "An English combat nurse from 1945 is mysteriously swept back in time to 1743.",
+      "Language": "English, Scottish Gaelic",
+      "Country": "USA",
+      "Awards": "Nominated for 5 Golden Globes. Another 25 wins & 38 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NDc3NzYxN15BMl5BanBnXkFtZTgwMTgyMjQyNjM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "86,856",
+      "imdbID": "tt3006802",
+      "Type": "series",
+      "totalSeasons": "6"
+    },
+    {
+      "Title": "Ender\"s Game",
+      "Year": "2013",
+      "Rated": "PG-13",
+      "Released": "01 Nov 2013",
+      "Runtime": "114 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "Gavin Hood",
+      "Writer": "Gavin Hood (screenplay by), Orson Scott Card (based on the book Ender\"s Game by)",
+      "Actors": "Asa Butterfield, Harrison Ford, Hailee Steinfeld, Abigail Breslin",
+      "Plot": "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "61%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "Metascore": "51",
+      "imdbRating": "6.6",
+      "imdbVotes": "207,711",
+      "imdbID": "tt1731141",
+      "Type": "movie",
+      "DVD": "11 Feb 2014",
+      "BoxOffice": "$61,656,849",
+      "Production": "Summit Entertainment",
+      "Website": "http://if-sentinel.com/"
+    },
+    {
+      "Title": "Monsters, Inc.",
+      "Year": "2001",
+      "Rated": "G",
+      "Released": "02 Nov 2001",
+      "Runtime": "92 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Pete Docter, David Silverman(co-director), Lee Unkrich(co-director)",
+      "Writer": "Pete Docter (original story by), Jill Culton (original story by), Jeff Pidgeon (original story by), Ralph Eggleston (original story by), Andrew Stanton (screenplay by), Daniel Gerson (screenplay by), Bob Peterson (additional story material), David Silverman (additional story material), Joe Ranft (additional story material), Robert L. Baird (additional screenplay material), Rhett Reese (additional screenplay material), Jonathan Roberts (additional screenplay material)",
+      "Actors": "John Goodman, Billy Crystal, Mary Gibbs, Steve Buscemi",
+      "Plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 13 wins & 38 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "8.1",
+      "imdbVotes": "718,325",
+      "imdbID": "tt0198781",
+      "Type": "movie",
+      "DVD": "19 Feb 2013",
+      "BoxOffice": "$34,034,168",
+      "Production": "Buena Vista Distribution Compa",
+      "Website": "http://disney.go.com/monstersinc/index.html"
+    },
+    {
+      "Title": "Gone Girl",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "03 Oct 2014",
+      "Runtime": "149 min",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "David Fincher",
+      "Writer": "Gillian Flynn (screenplay), Gillian Flynn (novel)",
+      "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",
+      "Plot": "With his wife\"s disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it\"s suspected that he may not be innocent.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 65 wins & 177 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "87%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "Metascore": "79",
+      "imdbRating": "8.1",
+      "imdbVotes": "738,447",
+      "imdbID": "tt2267998",
+      "Type": "movie",
+      "DVD": "13 Jan 2015",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "http://www.findamazingamy.com/"
+    },
+    {
+      "Title": "The Girl with the Dragon Tattoo",
+      "Year": "2011",
+      "Rated": "R",
+      "Released": "21 Dec 2011",
+      "Runtime": "158 min",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "David Fincher",
+      "Writer": "Steven Zaillian (screenplay by), Stieg Larsson (novel)",
+      "Actors": "Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård",
+      "Plot": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.",
+      "Language": "English",
+      "Country": "USA, Sweden, Norway",
+      "Awards": "Won 1 Oscar. Another 27 wins & 90 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.8",
+      "imdbVotes": "380,476",
+      "imdbID": "tt1568346",
+      "Type": "movie",
+      "DVD": "20 Mar 2012",
+      "BoxOffice": "$102,515,793",
+      "Production": "Sony Pictures",
+      "Website": "http://www.dragontattoo.com/site/"
+    },
+    {
+      "Title": "New Girl",
+      "Year": "2011–2018",
+      "Rated": "TV-14",
+      "Released": "20 Sep 2011",
+      "Runtime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Elizabeth Meriwether",
+      "Actors": "Zooey Deschanel, Jake Johnson, Max Greenfield, Hannah Simone",
+      "Plot": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 5 Golden Globes. Another 11 wins & 69 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MDc1NTk0Ml5BMl5BanBnXkFtZTgwMTk2ODA5NDM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.7",
+      "imdbVotes": "166,998",
+      "imdbID": "tt1826940",
+      "Type": "series",
+      "totalSeasons": "7"
+    },
+    {
+      "Title": "The Girl on the Train",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "07 Oct 2016",
+      "Runtime": "112 min",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "Tate Taylor",
+      "Writer": "Erin Cressida Wilson (screenplay by), Paula Hawkins (based on the novel by)",
+      "Actors": "Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux",
+      "Plot": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFlMjA0ZmUtZWI0Mi00ZGJkLTlmMmYtZmE1ODZiMjhjMGM0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "45%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "48/100"
+        }
+      ],
+      "Metascore": "48",
+      "imdbRating": "6.5",
+      "imdbVotes": "143,793",
+      "imdbID": "tt3631112",
+      "Type": "movie",
+      "DVD": "17 Jan 2017",
+      "BoxOffice": "$75,311,445",
+      "Production": "Universal Pictures",
+      "Website": "N/A"
+    },
+    {
+      "Title": "The Danish Girl",
+      "Year": "2015",
+      "Rated": "R",
+      "Released": "22 Jan 2016",
+      "Runtime": "119 min",
+      "Genre": "Biography, Drama, History, Romance",
+      "Director": "Tom Hooper",
+      "Writer": "David Ebershoff (book), Lucinda Coxon (screenplay)",
+      "Actors": "Alicia Vikander, Eddie Redmayne, Tusse Silberg, Adrian Schiller",
+      "Plot": "A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda\"s marriage and work evolve as they navigate Lili\"s groundbreaking journey as a transgender pioneer.",
+      "Language": "English, French, German",
+      "Country": "UK, USA, Germany, Denmark, Belgium, Japan",
+      "Awards": "Won 1 Oscar. Another 30 wins & 73 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0NjA4NjE2Nl5BMl5BanBnXkFtZTgwNzIxNTY2NjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "68%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "7.1",
+      "imdbVotes": "141,212",
+      "imdbID": "tt0810819",
+      "Type": "movie",
+      "DVD": "01 Mar 2016",
+      "BoxOffice": "N/A",
+      "Production": "Focus Features",
+      "Website": "https://www.workingtitlefilms.com/films/view/film/124"
+    },
+    {
+      "Title": "Gossip Girl",
+      "Year": "2007–2012",
+      "Rated": "TV-14",
+      "Released": "19 Sep 2007",
+      "Runtime": "42 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Stephanie Savage, Josh Schwartz",
+      "Actors": "Blake Lively, Leighton Meester, Penn Badgley, Chace Crawford",
+      "Plot": "Privileged teens living on the Upper East Side of New York can hide no secret from the ruthless blogger who is always watching.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "20 wins & 36 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ4Zjg1YWYtMTA1Mi00ZGY1LTlmN2ItYTc5ODkzNTFmYWVhXkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "136,105",
+      "imdbID": "tt0397442",
+      "Type": "series",
+      "totalSeasons": "6"
+    },
+    {
+      "Title": "The Lord of the Rings: The Return of the King",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "17 Dec 2003",
+      "Runtime": "201 min",
+      "Genre": "Action, Adventure, Drama, Fantasy",
+      "Director": "Peter Jackson",
+      "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay)",
+      "Actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
+      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron\"s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "Language": "English, Quenya, Old English, Sindarin",
+      "Country": "New Zealand, USA",
+      "Awards": "Won 11 Oscars. Another 197 wins & 122 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.9",
+      "imdbVotes": "1,451,338",
+      "imdbID": "tt0167260",
+      "Type": "movie",
+      "DVD": "25 May 2004",
+      "BoxOffice": "$364,000,000",
+      "Production": "New Line Cinema",
+      "Website": "http://www.lordoftherings.net/"
+    },
+    {
+      "Title": "The Lion King",
+      "Year": "1994",
+      "Rated": "G",
+      "Released": "24 Jun 1994",
+      "Runtime": "88 min",
+      "Genre": "Animation, Adventure, Drama, Family, Musical",
+      "Director": "Roger Allers, Rob Minkoff",
+      "Writer": "Irene Mecchi (screenplay by), Jonathan Roberts (screenplay by), Linda Woolverton (screenplay by), Burny Mattinson (story), Barry Johnson (story), Lorna Cook (story), Thom Enriquez (story), Andy Gaskill (story), Gary Trousdale (story), Jim Capobianco (story), Kevin Harkey (story), Jorgen Klubien (story), Chris Sanders (story), Tom Sito (story), Larry Leker (story), Joe Ranft (story), Rick Maki (story), Ed Gombert (story), Francis Glebas (story), Mark Kausler (story), J.T. Allen (additional story material), George Scribner (additional story material), Miguel Tejada-Flores (additional story material), Jenny Tripp (additional story material), Bob Tzudiker (additional story material), Christopher Vogler (additional story material), Kirk Wise (additional story material), Noni White (additional story material), Brenda Chapman (story supervisor)",
+      "Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings",
+      "Plot": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father\"s death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+      "Language": "English, Swahili, Xhosa, Zulu",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 33 wins & 29 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "8.5",
+      "imdbVotes": "807,335",
+      "imdbID": "tt0110357",
+      "Type": "movie",
+      "DVD": "07 Oct 2003",
+      "BoxOffice": "$94,240,635",
+      "Production": "Buena Vista",
+      "Website": "http://disney.go.com/lionking/"
+    },
+    {
+      "Title": "King Kong",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "14 Dec 2005",
+      "Runtime": "187 min",
+      "Genre": "Action, Adventure, Drama, Romance",
+      "Director": "Peter Jackson",
+      "Writer": "Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Merian C. Cooper (based on a story by), Edgar Wallace (based on a story by)",
+      "Actors": "Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",
+      "Plot": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to the mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow.",
+      "Language": "English",
+      "Country": "New Zealand, USA, Germany",
+      "Awards": "Won 3 Oscars. Another 43 wins & 100 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "7.2",
+      "imdbVotes": "360,021",
+      "imdbID": "tt0360717",
+      "Type": "movie",
+      "DVD": "28 Mar 2006",
+      "BoxOffice": "$218,100,000",
+      "Production": "Universal Pictures",
+      "Website": "http://www.kingkongmovie.com/"
+    },
+    {
+      "Title": "King Arthur",
+      "Year": "2004",
+      "Rated": "PG-13",
+      "Released": "07 Jul 2004",
+      "Runtime": "126 min",
+      "Genre": "Action, Adventure, Drama, History, War",
+      "Director": "Antoine Fuqua",
+      "Writer": "David Franzoni",
+      "Actors": "Clive Owen, Ioan Gruffudd, Mads Mikkelsen, Joel Edgerton",
+      "Plot": "A demystified take on the tale of King Arthur and the Knights of the Round Table.",
+      "Language": "English, Latin, Irish, Welsh, Scottish Gaelic",
+      "Country": "USA, UK, Ireland",
+      "Awards": "4 wins & 8 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "31%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "46/100"
+        }
+      ],
+      "Metascore": "46",
+      "imdbRating": "6.3",
+      "imdbVotes": "149,804",
+      "imdbID": "tt0349683",
+      "Type": "movie",
+      "DVD": "21 Dec 2004",
+      "BoxOffice": "$51,726,421",
+      "Production": "Buena Vista Pictures",
+      "Website": "http://kingarthur.movies.go.com/main.html"
+    },
+    {
+      "Title": "Sheep in the Big City",
+      "Year": "2000–2002",
+      "Rated": "TV-Y",
+      "Released": "04 Nov 2000",
+      "Runtime": "30 min",
+      "Genre": "Animation, Comedy",
+      "Director": "N/A",
+      "Writer": "Mo Willems",
+      "Actors": "Kevin Seal, James Godwin, Ken Schatz, Mo Willems",
+      "Plot": "A military base builds a ray gun to take over and/or destory the world. What is needed to power this gun is a sheep, when a sheep of a small country farm is chosen it escapes to a nearby city and the chase is on...",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWE5ZmEyZDAtMzA1NC00NWViLTg1OTYtOTE1MjAwMzQzOGUzXkEyXkFqcGdeQXVyMzAxNTY5MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "1,066",
+      "imdbID": "tt0260653",
+      "Type": "series",
+      "totalSeasons": "2"
+    },
+    {
+      "Title": "Captain America: The First Avenger",
+      "Year": "2011",
+      "Rated": "PG-13",
+      "Released": "22 Jul 2011",
+      "Runtime": "124 min",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Joe Johnston",
+      "Writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Joe Simon (comic books), Jack Kirby (comic books)",
+      "Actors": "Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones",
+      "Plot": "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a \"Super-Soldier serum\". But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+      "Language": "English, Norwegian, French",
+      "Country": "USA",
+      "Awards": "3 wins & 46 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "6.9",
+      "imdbVotes": "630,462",
+      "imdbID": "tt0458339",
+      "Type": "movie",
+      "DVD": "25 Oct 2011",
+      "BoxOffice": "$176,636,816",
+      "Production": "Paramount Pictures",
+      "Website": "http://captainamerica.marvel.com/"
+    },
+    {
+      "Title": "Avengers: Infinity War",
+      "Year": "2018",
+      "Rated": "PG-13",
+      "Released": "27 Apr 2018",
+      "Runtime": "149 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "Anthony Russo, Joe Russo",
+      "Writer": "Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)",
+      "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",
+      "Plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "8.5",
+      "imdbVotes": "550,743",
+      "imdbID": "tt4154756",
+      "Type": "movie",
+      "DVD": "14 Aug 2018",
+      "BoxOffice": "$664,987,816",
+      "Production": "Walt Disney Pictures",
+      "Website": "http://marvel.com/movies/movie/223/avengers_infinity_war"
+    },
+    {
+      "Title": "Shrek",
+      "Year": "2001",
+      "Rated": "PG",
+      "Released": "18 May 2001",
+      "Runtime": "90 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Andrew Adamson, Vicky Jenson",
+      "Writer": "William Steig (based upon the book by), Ted Elliott, Terry Rossio, Joe Stillman, Roger S.H. Schulman, Cody Cameron (additional dialogue), Chris Miller (additional dialogue), Conrad Vernon (additional dialogue)",
+      "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow",
+      "Plot": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 36 wins & 60 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "7.9",
+      "imdbVotes": "543,911",
+      "imdbID": "tt0126029",
+      "Type": "movie",
+      "DVD": "02 Nov 2001",
+      "BoxOffice": "$266,982,666",
+      "Production": "Dreamworks",
+      "Website": "http://www.shrek.com/"
+    },
+    {
+      "Title": "Shrek 2",
+      "Year": "2004",
+      "Rated": "PG",
+      "Released": "19 May 2004",
+      "Runtime": "93 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Romance",
+      "Director": "Andrew Adamson, Kelly Asbury, Conrad Vernon",
+      "Writer": "William Steig (based upon the book by), Andrew Adamson (story by), Andrew Adamson (screenplay by), Joe Stillman (screenplay by), J. David Stem (screenplay by), David N. Weiss (screenplay by), Cody Cameron (additional dialogue), Walt Dohrn (additional dialogue), Chris Miller (additional dialogue), David P. Smith (additional dialogue), Conrad Vernon (additional dialogue)",
+      "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews",
+      "Plot": "Princess Fiona\"s parents invite her and Shrek to dinner to celebrate her marriage. If only they knew the newlyweds were both ogres.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 18 wins & 50 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "75/100"
+        }
+      ],
+      "Metascore": "75",
+      "imdbRating": "7.2",
+      "imdbVotes": "370,258",
+      "imdbID": "tt0298148",
+      "Type": "movie",
+      "DVD": "02 Nov 2004",
+      "BoxOffice": "$436,471,036",
+      "Production": "DreamWorks SKG",
+      "Website": "http://www.shrek2.com/"
+    },
+    {
+      "Title": "Shrek the Third",
+      "Year": "2007",
+      "Rated": "PG",
+      "Released": "18 May 2007",
+      "Runtime": "93 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Chris Miller, Raman Hui(co-director)",
+      "Writer": "Jeffrey Price (screenplay by), Peter S. Seaman (screenplay by), Chris Miller (screenplay by), Aron Warner (screenplay by), Andrew Adamson (story by), William Steig (based upon the book by)",
+      "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas",
+      "Plot": "When his new father-in-law, King Harold falls ill, Shrek is looked at as the heir to the land of Far, Far Away. Not one to give up his beloved swamp, Shrek recruits his friends Donkey and Puss in Boots to install the rebellious Artie as the new king. Princess Fiona, however, rallies a band of royal girlfriends to fend off a coup d\"etat by the jilted Prince Charming.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 5 wins & 15 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "41%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "6.1",
+      "imdbVotes": "245,876",
+      "imdbID": "tt0413267",
+      "Type": "movie",
+      "DVD": "13 Nov 2007",
+      "BoxOffice": "$320,706,665",
+      "Production": "Dreamworks",
+      "Website": "http://www.shrek.com/"
+    },
+    {
+      "Title": "Shrek Forever After",
+      "Year": "2010",
+      "Rated": "PG",
+      "Released": "21 May 2010",
+      "Runtime": "93 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Romance",
+      "Director": "Mike Mitchell",
+      "Writer": "William Steig (based upon the book by), Josh Klausner, Darren Lemke, Matthew Shire (Punch-Up Writer)",
+      "Actors": "Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas",
+      "Plot": "Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpel rules supreme.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 13 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "58%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "58/100"
+        }
+      ],
+      "Metascore": "58",
+      "imdbRating": "6.3",
+      "imdbVotes": "162,820",
+      "imdbID": "tt0892791",
+      "Type": "movie",
+      "DVD": "07 Dec 2010",
+      "BoxOffice": "$238,319,043",
+      "Production": "Paramount",
+      "Website": "http://www.shrekforeverafter.com/"
+    },
+    {
+      "Title": "Deadpool",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "12 Feb 2016",
+      "Runtime": "108 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "Tim Miller",
+      "Writer": "Rhett Reese, Paul Wernick",
+      "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+      "Plot": "A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "8.0",
+      "imdbVotes": "787,883",
+      "imdbID": "tt1431045",
+      "Type": "movie",
+      "DVD": "10 May 2016",
+      "BoxOffice": "$328,674,489",
+      "Production": "20th Century Fox",
+      "Website": "http://www.foxmovies.com/deadpool"
+    },
+    {
+      "Title": "Deadpool 2",
+      "Year": "2018",
+      "Rated": "R",
+      "Released": "18 May 2018",
+      "Runtime": "119 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "David Leitch",
+      "Writer": "Rhett Reese, Paul Wernick, Ryan Reynolds",
+      "Actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",
+      "Plot": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
+      "Language": "English, Cantonese, Spanish, Russian",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "7.8",
+      "imdbVotes": "331,497",
+      "imdbID": "tt5463162",
+      "Type": "movie",
+      "DVD": "21 Aug 2018",
+      "BoxOffice": "N/A",
+      "Production": "20th Century Fox",
+      "Website": "https://www.foxmovies.com/movies/deadpool-2"
+    },
+    {
+      "Title": "Harry Potter and the Deathly Hallows: Part 2",
+      "Year": "2011",
+      "Rated": "PG-13",
+      "Released": "15 Jul 2011",
+      "Runtime": "130 min",
+      "Genre": "Adventure, Drama, Fantasy, Mystery",
+      "Director": "David Yates",
+      "Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+      "Actors": "Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe",
+      "Plot": "Harry, Ron, and Hermione search for Voldemort\"s remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "Nominated for 3 Oscars. Another 45 wins & 91 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "8.1",
+      "imdbVotes": "673,121",
+      "imdbID": "tt1201607",
+      "Type": "movie",
+      "DVD": "11 Nov 2011",
+      "BoxOffice": "$381,000,185",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.HarryPotter.com/"
+    },
+    {
+      "Title": "Harry Potter and the Sorcerer\"s Stone",
+      "Year": "2001",
+      "Rated": "PG",
+      "Released": "16 Nov 2001",
+      "Runtime": "152 min",
+      "Genre": "Adventure, Family, Fantasy",
+      "Director": "Chris Columbus",
+      "Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+      "Actors": "Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets",
+      "Plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 3 Oscars. Another 17 wins & 62 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "81%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.6",
+      "imdbVotes": "553,775",
+      "imdbID": "tt0241527",
+      "Type": "movie",
+      "DVD": "28 May 2002",
+      "BoxOffice": "$317,557,891",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://movies.warnerbros.com/awards/harry.html"
+    },
+    {
+      "Title": "Harry Potter and the Prisoner of Azkaban",
+      "Year": "2004",
+      "Rated": "PG",
+      "Released": "04 Jun 2004",
+      "Runtime": "142 min",
+      "Genre": "Adventure, Family, Fantasy, Mystery",
+      "Director": "Alfonso Cuarón",
+      "Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+      "Actors": "Daniel Radcliffe, Richard Griffiths, Pam Ferris, Fiona Shaw",
+      "Plot": "It\"s Harry\"s third year at Hogwarts; not only does he have a new \"Defense Against the Dark Arts\" teacher, but there is also trouble brewing. Convicted murderer Sirius Black has escaped the Wizards\" Prison and is coming after Harry.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 2 Oscars. Another 14 wins & 45 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "82/100"
+        }
+      ],
+      "Metascore": "82",
+      "imdbRating": "7.9",
+      "imdbVotes": "475,555",
+      "imdbID": "tt0304141",
+      "Type": "movie",
+      "DVD": "22 Nov 2004",
+      "BoxOffice": "$249,358,727",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://azkaban.warnerbros.com/"
+    },
+    {
+      "Title": "Harry Potter and the Order of the Phoenix",
+      "Year": "2007",
+      "Rated": "PG-13",
+      "Released": "11 Jul 2007",
+      "Runtime": "138 min",
+      "Genre": "Adventure, Family, Fantasy, Mystery",
+      "Director": "David Yates",
+      "Writer": "Michael Goldenberg (screenplay), J.K. Rowling (novel)",
+      "Actors": "Daniel Radcliffe, Harry Melling, Jason Boyd, Richard Macklin",
+      "Plot": "With their warning about Lord Voldemort\"s return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "77%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.5",
+      "imdbVotes": "436,741",
+      "imdbID": "tt0373889",
+      "Type": "movie",
+      "DVD": "11 Nov 2007",
+      "BoxOffice": "$291,980,108",
+      "Production": "Warner Bros. Pictures",
+      "Website": "http://www.harrypotterorderofthephoenix.com/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"jwtSalt": "Th1s155444lt3cl0ud",
+	"enviroment": "staging",
+	"default_page_size": 10,
+	"expirations": {
+		"confirmationEmail": 86400,
+		"token": 86400,
+		"forgoPassword": 3600
+	},
+	"frontUrl": "",
+	"backUrl": ""
+}
